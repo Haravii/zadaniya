@@ -8,3 +8,7 @@ D:\reposForVS\Pick-a-Pair\Pick-a-Pair\obj\Debug\Pick-a-Pair.csproj.GenerateResou
 D:\reposForVS\Pick-a-Pair\Pick-a-Pair\obj\Debug\Pick-a-Pair.csproj.CoreCompileInputs.cache
 D:\reposForVS\Pick-a-Pair\Pick-a-Pair\obj\Debug\Pick-a-Pair.exe
 D:\reposForVS\Pick-a-Pair\Pick-a-Pair\obj\Debug\Pick-a-Pair.pdb
+D:\reposForVS\Pick-a-Pair\Pick-a-Pair\bin\Debug\Pick-a-Pair.exe.manifest
+D:\reposForVS\Pick-a-Pair\Pick-a-Pair\bin\Debug\Pick-a-Pair.application
+D:\reposForVS\Pick-a-Pair\Pick-a-Pair\obj\Debug\Pick-a-Pair.exe.manifest
+D:\reposForVS\Pick-a-Pair\Pick-a-Pair\obj\Debug\Pick-a-Pair.application

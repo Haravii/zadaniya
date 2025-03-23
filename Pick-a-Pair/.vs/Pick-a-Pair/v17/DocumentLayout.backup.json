@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{8197D628-7F57-4F9B-95D1-81BC51BE0DD7}|Pick-a-Pair\\Pick-a-Pair.csproj|solutionrelative:pick-a-pair\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8197D628-7F57-4F9B-95D1-81BC51BE0DD7}|Pick-a-Pair\\Pick-a-Pair.csproj|d:\\reposforvs\\pick-a-pair\\pick-a-pair\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{8197D628-7F57-4F9B-95D1-81BC51BE0DD7}|Pick-a-Pair\\Pick-a-Pair.csproj|D:\\reposForVS\\Pick-a-Pair\\pick-a-pair\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8197D628-7F57-4F9B-95D1-81BC51BE0DD7}|Pick-a-Pair\\Pick-a-Pair.csproj|solutionrelative:pick-a-pair\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -47,8 +47,7 @@
               "ToolTip": "D:\\reposForVS\\Pick-a-Pair\\Pick-a-Pair\\Form1.cs [Design]",
               "RelativeToolTip": "Pick-a-Pair\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T17:18:43.315Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-03-23T17:18:43.315Z"
             }
           ]
         }

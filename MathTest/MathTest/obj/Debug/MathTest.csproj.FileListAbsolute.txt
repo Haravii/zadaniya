@@ -8,3 +8,7 @@ D:\reposForVS\MathTest\MathTest\obj\Debug\MathTest.csproj.GenerateResource.cache
 D:\reposForVS\MathTest\MathTest\obj\Debug\MathTest.csproj.CoreCompileInputs.cache
 D:\reposForVS\MathTest\MathTest\obj\Debug\MathTest.exe
 D:\reposForVS\MathTest\MathTest\obj\Debug\MathTest.pdb
+D:\reposForVS\MathTest\MathTest\bin\Debug\MathTest.exe.manifest
+D:\reposForVS\MathTest\MathTest\bin\Debug\MathTest.application
+D:\reposForVS\MathTest\MathTest\obj\Debug\MathTest.exe.manifest
+D:\reposForVS\MathTest\MathTest\obj\Debug\MathTest.application
