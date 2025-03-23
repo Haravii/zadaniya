@@ -1,0 +1,10 @@
+D:\reposForVS\Pick-a-Pair\Pick-a-Pair\bin\Debug\Pick-a-Pair.exe.config
+D:\reposForVS\Pick-a-Pair\Pick-a-Pair\bin\Debug\Pick-a-Pair.exe
+D:\reposForVS\Pick-a-Pair\Pick-a-Pair\bin\Debug\Pick-a-Pair.pdb
+D:\reposForVS\Pick-a-Pair\Pick-a-Pair\obj\Debug\Pick-a-Pair.csproj.AssemblyReference.cache
+D:\reposForVS\Pick-a-Pair\Pick-a-Pair\obj\Debug\Pick_a_Pair.Form1.resources
+D:\reposForVS\Pick-a-Pair\Pick-a-Pair\obj\Debug\Pick_a_Pair.Properties.Resources.resources
+D:\reposForVS\Pick-a-Pair\Pick-a-Pair\obj\Debug\Pick-a-Pair.csproj.GenerateResource.cache
+D:\reposForVS\Pick-a-Pair\Pick-a-Pair\obj\Debug\Pick-a-Pair.csproj.CoreCompileInputs.cache
+D:\reposForVS\Pick-a-Pair\Pick-a-Pair\obj\Debug\Pick-a-Pair.exe
+D:\reposForVS\Pick-a-Pair\Pick-a-Pair\obj\Debug\Pick-a-Pair.pdb
