@@ -1,0 +1,10 @@
+D:\reposForVS\MathTest\MathTest\bin\Debug\MathTest.exe.config
+D:\reposForVS\MathTest\MathTest\bin\Debug\MathTest.exe
+D:\reposForVS\MathTest\MathTest\bin\Debug\MathTest.pdb
+D:\reposForVS\MathTest\MathTest\obj\Debug\MathTest.csproj.AssemblyReference.cache
+D:\reposForVS\MathTest\MathTest\obj\Debug\MathTest.Form1.resources
+D:\reposForVS\MathTest\MathTest\obj\Debug\MathTest.Properties.Resources.resources
+D:\reposForVS\MathTest\MathTest\obj\Debug\MathTest.csproj.GenerateResource.cache
+D:\reposForVS\MathTest\MathTest\obj\Debug\MathTest.csproj.CoreCompileInputs.cache
+D:\reposForVS\MathTest\MathTest\obj\Debug\MathTest.exe
+D:\reposForVS\MathTest\MathTest\obj\Debug\MathTest.pdb
